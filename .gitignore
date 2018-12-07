@@ -39,3 +39,5 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 /Laskin/.nb-gradle/
 /Laskin/build/
+/QueryLanguage/.nb-gradle/
+/QueryLanguage/build/
